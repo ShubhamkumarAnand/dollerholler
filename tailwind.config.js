@@ -24,6 +24,17 @@ export default {
 				gallery: '#efeaf2',
 				caribbeanGreenDark: '#00ca9e',
 				fog: '#decaec'
+			},
+			zIndex: {
+				toaster: 1000,
+				modal: 999,
+				modalOverlay: 998,
+				slidePanel: 997,
+				overlay: 996,
+				navBarToggle: 91,
+				navBar: 90,
+				row: 5,
+				rowActions: 1
 			}
 		}
 	},
