@@ -14,6 +14,9 @@
 }
 
 @layer components {
+	.invoice-table {
+		@apply mb-3 grid w-full grid-cols-invoiceTable gap-4 px-6;
+	}
 }
 @layer utilities {
 }
